@@ -19,6 +19,6 @@ return U_Size
 
 The algorithm above finds the distinct element in a given array ( main purpose ) and re-arrange the array
 
-The attached PDF file has all of the assignment instructions and demends written in hebrew
+The attached PDF file has all of the assignment instructions and demands written in hebrew
 
 grade: 100
