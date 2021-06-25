@@ -1,6 +1,5 @@
 # data-structure-project
 Find and analyize 7 different methods to find the amount of distinct numbers in an array
-grade: 100
 
 Original Pseudo-code:
 ```
@@ -22,3 +21,4 @@ The algorithm above finds the distinct element in a given array ( main purpose )
 
 The attached PDF file has all of the assignment instructions and demends written in hebrew
 
+grade: 100
