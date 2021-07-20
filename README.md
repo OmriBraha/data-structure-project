@@ -1,5 +1,5 @@
 # data-structure-project
-Find and analyize 7 different methods to find the amount of distinct numbers in an array
+explore and analyze 7 different methods that finds the number of distinct numbers in an array
 
 Original Pseudo-code:
 ```
